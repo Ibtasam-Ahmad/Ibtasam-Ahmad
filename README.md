@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibtasam-ahmad&show_icons=true&locale=en" alt="ibtasam-ahmad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtasam-ahmad&" alt="ibtasam-ahmad" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> <b>I'll be happy to meet you more!</b> :)</em>
