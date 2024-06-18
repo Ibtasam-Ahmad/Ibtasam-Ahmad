@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ibtasam Ahmad</h1>
 <h3 align="center">A Highly Skilled Professional With A Bachelor's Degree In Computational Physics, A Diploma In Artificial Intelligence, And Expertise In Computer Simulations, Scientific Computation, Data Science, Data Analysis, Front End Development, Website Design and Development, Machine Learning, Deep Learning, Artificial Intelligence, Image Processing, Computer Vision, Natural Language Processing, Time Series Analysis, Artificial Neural Network, Quantum Neural Network, and Graphic Designing. With Over Two Years Of Experience In The Industry, I Have A Proven Track Record Of Delivering High-Quality Services And Solutions To My Clients. Whether You Need A Stunning Design, An Overview, and Analysis of Data, A Responsive Website, Or A Cutting-Edge AI Solution, I Have The Knowledge And Expertise To Help You Achieve Your Goals.</h3>
 
-<p><em>Computational Physicst from <a href="http://www.unb.br">University of The Punjab</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python AI Developer at <a href="https://www.thoughtworks.com">Expert Syatem Solution</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computational Physicst from <a href="http://www.unb.br">University of The Punjab</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python AI Developer at <a href="https://www.thoughtworks.com">Digimark Developers</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtasam-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ibtasam-ahmad" /> </p>
 
 
-- 🔭 I’m currently working on **Time Series Analysis & Chat Bot's**
+- 🔭 I’m currently working on **AI Backend Application with API's & Chat Bot's**
 
-- 🌱 I’m currently learning **Python / Django**
+- 🌱 I’m currently learning **Python/Django & LLM's**
 
-- 👯 I’m looking to collaborate on **Voice Bot & Chat Bot**
+- 👯 I’m looking to collaborate on **Python/Django & LLM's**
 
 - 🤝 I’m looking for help with **AI Voice Bot's**
 
