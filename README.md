@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibtasam Ahmad</h1>
-<h3 align="center">AI/ML Developer with 2+ years of experience in Python, Django/Flask/FAST, and advanced AI technologies (Ten-
+<h3 align="center">AI/ML Developer with 3+ years of experience in Python, Django/Flask/FAST, and advanced AI technologies (Ten-
 sorFlow, PyTorch, NLP, CV, LLMs, etc.). Skilled in generative AI (RAG’s, OpenAI, Opensource Models), ma-
 chine learning, deep learning, and data science, with proficiency in (SQL, PostgreSQL), Vector Database (Chroma,
 
