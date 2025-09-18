@@ -1,40 +1,88 @@
+
 <h1 align="center">Hi 👋, I'm Ibtasam Ahmad</h1>
-<h3 align="center">AI/ML Developer with 3+ years of experience in Python, Django/Flask/FAST, and advanced AI technologies (Ten-
-sorFlow, PyTorch, NLP, CV, LLMs, etc.). Skilled in generative AI (RAG’s, OpenAI, Opensource Models), ma-
-chine learning, deep learning, and data science, with proficiency in (SQL, PostgreSQL), Vector Database (Chroma,
 
-Pinecone, FAISS), data analysis, and web development. Strong background in creating innovative AI solutions,
-backed by a Bachelor’s in Computational Physics and a Diploma in AI. Proven track record of delivering impactful
-projects through independent and collaborative efforts. Passionate about applying AI to solve real-world challenges
-and continuously learning to stay at the forefront of the field.</h3>
+<h3 align="center">
+AI/ML Developer | Python Expert | Generative AI & LLM Specialist | Full-Stack AI Product Developer with 3+ Years of Experience
+</h3>
 
-<p><em>Computational Physicst from <a href="http://www.unb.br">University of The Punjab</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Python AI Developer at <a href="https://www.thoughtworks.com">Digimark Developers</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtasam-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="ibtasam-ahmad" /> </p>
-
-
-- 🔭 I’m currently working on **AI Backend Application with API's & Chat Bot's**
-
-- 🌱 I’m currently learning **Multi Model LLMs/LCMs/LVLMs/VLMs & Agentic AI**
-
-- 👯 I’m looking to collaborate on **Multi Model LLMs/LCMs/LVLMs/VLMs & Agentic AI**
-
-- 🤝 I’m looking for help with **Agentic AI MCP Voice Bot's**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ibtasam-Ahmad?tab=repositories](https://github.com/Ibtasam-Ahmad?tab=repositories)
-
-- 💬 Ask me about **Artificial Intelligence**
-
-- 📫 How to reach me **https://ibtasam-ahmad.netlify.app/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ibtasam-ahmad-72b69b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibtasam-ahmad-72b69b206" height="30" width="40" /></a>
-<a href="https://medium.com/@shibtasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shibtasam" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable AI-powered solutions that solve real-world problems. Skilled in developing advanced AI pipelines, generative AI (RAG, OpenAI, open-source models), NLP, computer vision, time series forecasting, and SaaS applications. Experienced in Python frameworks (Django, Flask, FastAPI), vector databases (FAISS, Pinecone, Chroma), and cloud deployments. Always learning, innovating, and pushing AI to the next frontier.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+<em>Computational Physicist (BSc Hons) & AI Diploma Holder from <a href="https://www.pu.edu.pk/" target="_blank">University of The Punjab</a></em>
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> <b>I'll be happy to meet you more!</b> :)</em>
+<p align="center">
+Python AI Developer at <a href="" target="_blank">Infolyze Solutions</a> | AI Innovator | Open Source Contributor
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ibtasam-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🔭 Current Focus
+- Developing AI backend applications, APIs, and intelligent chatbots/voicebots.
+- Developing AI Agents, RAG Pipeline, SaaS Applications, AI Workflows and Automations.
+- Architecting multi-agent AI systems for autonomous workflows.
+- Fine-tuning LLMs (LLaMA, OpenAI, Hugging Face) for custom enterprise solutions.
+
+### 🌱 Currently Learning
+- Multi-Modal LLMs, SLMs, LVLMs, LCMs, and Agentic AI architectures.
+- Advanced RAG pipelines and vector search optimization.
+
+### 👯 Looking to Collaborate On
+- Innovative generative AI projects.
+- Scalable AI SaaS & Micro-SaaS tools.
+- Cutting-edge NLP, CV, and time series forecasting applications.
+
+### 💬 Ask Me About
+Artificial Intelligence, Machine Learning, Generative AI, LLMs, Python development, AI automation, Vector Databases.
+
+### 📫 Get in Touch
+- Website: [https://ibtasam-ahmad.netlify.app/](https://ibtasam-ahmad.netlify.app/)
+- LinkedIn: [https://www.linkedin.com/in/ibtasam-ahmad](https://www.linkedin.com/in/ibtasam-ahmad)
+- GitHub: [https://github.com/Ibtasam-Ahmad](https://github.com/Ibtasam-Ahmad)
+- Medium: [https://medium.com/@shibtasam](https://medium.com/@shibtasam)
+
+---
+
+### Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ibtasam-ahmad" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="https://medium.com/@shibtasam" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" />
+</a>
+</p>
+
+---
+
+### Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="40" height="40" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40" /></a>
+<a href="https://www.chromadb.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13425652?s=200&v=4" alt="Chroma DB" width="40" height="40" /></a>
+<a href="https://github.com/facebookresearch/faiss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="FAISS" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /></a>
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Let's Connect!"/> <em><b>I love connecting with people and collaborating on innovative AI projects! Feel free to reach out.</b></em>
