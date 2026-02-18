@@ -42,6 +42,7 @@ Python AI Developer at <a href="" target="_blank">Infolyze Solutions</a> | AI In
 Artificial Intelligence, Machine Learning, Generative AI, LLMs, Python development, AI automation, Vector Databases.
 
 ### 📫 Get in Touch
+- Portfolio: [https://portfolio-ibtasam-ahmad.vercel.app/](https://portfolio-ibtasam-ahmad.vercel.app/)
 - Website: [https://ibtasam-ahmad.netlify.app/](https://ibtasam-ahmad.netlify.app/)
 - LinkedIn: [https://www.linkedin.com/in/ibtasam-ahmad](https://www.linkedin.com/in/ibtasam-ahmad)
 - GitHub: [https://github.com/Ibtasam-Ahmad](https://github.com/Ibtasam-Ahmad)
