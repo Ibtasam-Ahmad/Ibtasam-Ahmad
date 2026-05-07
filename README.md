@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibtasam+Ahmad;AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;4%2B+Years+Building+Production+AI+Systems;Computational+Physics+to+AI+Innovation" alt="Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibtasam+Ahmad;AI%2FML+Engineer;Generative+AI+%7C+RAG's+%7C+Agentic+AI;4%2B+Years+Building+Production+AI+Systems;Computational+Physics+to+AI+Innovation" alt="Typing Header" />
 </br>
 
 <!-- Subtitle Badge -->
@@ -28,10 +28,10 @@
 
 > **AI/ML Engineer** with **4+ years** of experience architecting and deploying **production-grade AI systems** that drive measurable business impact. I specialize in **Generative AI**, **RAG Pipelines**, **Agentic AI Architectures**, and **LLM Fine-tuning**, with a proven track record of reducing operational costs by **60%** and improving decision-making efficiency by **40%**.
 
-- 🔭 **Currently Leading**: AI pipeline development at **Infolyze Solutions** — building enterprise RAG systems, multi-agent architectures, and SaaS AI products
+- 🔭 **Currently Leading**: AI pipeline development at **Infolyze Solutions** building enterprise RAG systems, multi-agent architectures, and SaaS AI products
 - 🧠 **Core Expertise**: LLMs (OpenAI, LLaMA, Hugging Face), RAG, NLP, Computer Vision, Time Series Forecasting, Quantum ML
 - 🚀 **Impact Delivered**: 25+ production AI systems | 60% manual workload reduction | 40% faster analysis turnaround
-- 🎓 **Background**: BS (Hons) Computational Physics + AI Diploma — bridging scientific rigor with AI innovation
+- 🎓 **Background**: BS (Hons) Computational Physics + AI Diploma bridging scientific rigor with AI innovation
 - 📝 **Published Research**: arXiv paper on LSTM vs QLSTM for stock market prediction (2024)
 - 🌐 **Community**: 21K+ LinkedIn followers | Medium AI writer | Tech conference speaker
 
@@ -105,12 +105,12 @@
 
 <table>
 <tr>
-<td width="50%">
+<!-- <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ibtasam-Ahmad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
 
 </td>
-<td width="50%">
+<td width="50%"> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtasam-Ahmad&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" alt="GitHub Streak" />
 
@@ -259,7 +259,7 @@
 
 *Mahmood, Tariq., Ahmad, Ibtasam., et al. (2024)*
 
-> Novel research bridging classical deep learning with quantum computing for financial time series forecasting — demonstrating QLSTM's potential advantage in capturing complex market patterns.
+> Novel research bridging classical deep learning with quantum computing for financial time series forecasting demonstrating QLSTM's potential advantage in capturing complex market patterns.
 
 </div>
 
@@ -295,7 +295,7 @@
 ### 🏗️ Architecture
 **End-to-End AI Product Development**
 
-From concept to production — designing scalable AI pipelines, RAG systems, and agentic architectures that solve real business problems.
+From concept to production designing scalable AI pipelines, RAG systems, and agentic architectures that solve real business problems.
 
 </td>
 <td align="center" width="25%">
@@ -311,7 +311,7 @@ Consistently delivering **40-70% efficiency gains** through automation, intellig
 ### 🔬 Innovation
 **Research-Backed Solutions**
 
-Published researcher in Quantum ML with expertise in cutting-edge techniques — from LSTMs to LLMs to Agentic AI.
+Published researcher in Quantum ML with expertise in cutting-edge techniques from LSTMs to LLMs to Agentic AI.
 
 </td>
 <td align="center" width="25%">
@@ -326,6 +326,78 @@ Proven ability to lead AI initiatives, mentor teams, and translate complex techn
 </table>
 
 </div>
+
+<br>
+
+## 🎓 Master's Aspirations & Research Focus
+
+> **Actively seeking a funded Master's position (Fall 2026/Spring 2027)** to push the boundaries of **Generative AI, Agentic Systems, and Efficient Deep Learning**. My goal is to bridge cutting-edge research with real-world impact building AI that is not only powerful but also accessible, interpretable, and aligned with human values.
+
+### 🔬 Core Research Interests
+
+<div align="center">
+
+| Research Area | Why It Excites Me | Key Techniques I'm Exploring |
+|---------------|-------------------|-------------------------------|
+| **🔄 Efficient LLM Architectures** | Democratizing access to powerful models | Mixture-of-Experts (MoE), LoRA/QLoRA, Model Distillation, Pruning |
+| **🧠 Next-Gen Transformers** | Overcoming context window & memory limitations | Sparse Attention, Linear Transformers, Mamba, Hyena Hierarchy |
+| **🤖 Agentic AI & Multi-Agent Systems** | Creating autonomous, collaborative reasoning systems | ReAct, AutoGPT, Meta-planning, Graph-based agent coordination |
+| **📚 Advanced RAG & Knowledge Integration** | Moving beyond simple retrieval to true understanding | Hypothetical Document Embeddings (HyDE), Self-RAG, Corrective RAG (CRAG), Knowledge Graphs |
+| **🔍 LLM Alignment & Interpretability** | Building safe, ethical, and explainable AI | RLHF/DPO, Constitutional AI, Mechanistic Interpretability, Sparse Autoencoders |
+| **⚡ On-Device & Edge AI** | Bringing GenAI to resource-constrained environments | Quantization (INT4/INT8), TinyML, PEFT for edge deployment |
+
+</div>
+
+### 📝 Current & Planned Research Directions
+
+- **Research Proposal:** *"Cost-Effective Multi-Agent Frameworks for Complex Reasoning in Low-Resource Settings"* Investigating optimal orchestration of open-source LLMs for tasks requiring multi-step logic, with a focus on minimizing inference costs.
+- **Ongoing Exploration:** Implementing and benchmarking various **RAG enhancement techniques** (HyDE, CRAG, Self-RAG) on domain-specific knowledge bases.
+- **Future Goal:** Contribute to open-source libraries for **Efficient Agentic Workflows** reducing token usage while maintaining reasoning quality.
+
+<br>
+
+<!-- Featured Research & Projects -->
+## 🔬 Research & Flagship Projects
+
+> *Projects demonstrating my research interests and engineering capabilities each with a focus on innovation and efficiency.*
+
+<div align="center">
+
+| Project | Description | Research Alignment | Tech Stack |
+|---------|-------------|---------------------|-------------|
+| **[Agent Analysis System](https://github.com/Ibtasam-Ahmad)** | Multi-agent platform for automated reporting & reasoning | Agentic AI, Meta-planning, Collaborative LLMs | AbacusAI, LangGraph, Python |
+| **[Pen Testing Agent Platform](https://github.com/Ibtasam-Ahmad)** | AI-driven vulnerability assessment with autonomous agents | Agentic Workflows, LLM Tool Use, Security | PostgreSQL, FastAPI, LangChain, OpenAI |
+| **[QLSTM Stock Prediction](https://doi.org/10.48550/arXiv.2409.08297)** | *Published:* Comparing classical vs quantum deep learning | Quantum ML, Time Series, Hybrid Models | PyTorch, PennyLane, Qiskit |
+| **[RAG-Perf Bench](https://github.com/Ibtasam-Ahmad)** *(Planned)* | Benchmarking suite for advanced RAG techniques (HyDE, CRAG, Self-RAG) | RAG Evaluation, Information Retrieval | LlamaIndex, Weaviate, DeepEval |
+| **[TinyAgent](https://github.com/Ibtasam-Ahmad)** *(Planned)* | Lightweight agentic framework for edge/CPU deployment | Efficient AI, On-Device LLMs, Quantization | Ollama,llama.cpp, Rust/Python bindings |
+
+</div>
+
+<br>
+
+<!-- Professional Narrative + Scholarship Alignment -->
+## 💡 Why Me for Your Master's Program?
+
+I offer more than just coursework knowledge I bring **production engineering rigor**, **published research experience**, and a **genuine drive** to solve fundamental problems in GenAI.
+
+- **Proven Research Ability**: Successfully completed and published a comparative study involving quantum-classical neural networks, demonstrating ability to formulate hypotheses, design experiments, and write for peer review.
+- **Engineering Meets Theory**: My industry experience (25+ production systems) grounds my research in practical constraints cost, latency, scalability ensuring relevance.
+- **Active Community Contributor**: 21K+ LinkedIn network, Medium writer, and conference speaker I amplify research through communication.
+- **Self-Directed Learner**: Independently mastering MoE, DPO, Sparse Attention, and the latest papers while delivering full-time results.
+
+**I am looking for an advisor and lab where I can contribute meaningfully, publish at top-tier venues (ACL, NeurIPS, ICML, EMNLP), and develop solutions that make advanced AI more efficient, interpretable, and accessible.**
+
+<br>
+
+<!-- Connect & Collaborate -->
+## 🤝 Let's Collaborate on Research
+
+I'm actively seeking:
+- 🎓 **Master's positions (funded)** anywhere pushing the edge of Generative AI, LLMs, or Agentic Systems.
+- 🔬 **Research collaborations** open to pre-print reviews, benchmark projects, or open-source contributions.
+- 🗣️ **Speaking opportunities** on efficient AI, agentic workflows, or bridging research & production.
+
+<div align="center">
 
 <br>
 
@@ -361,7 +433,7 @@ Proven ability to lead AI initiatives, mentor teams, and translate complex techn
 <!-- Fun Footer -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect" />
 
-*<b>Open for AI Engineer roles, consulting opportunities, and innovative collaborations. Let's push the boundaries of what's possible with AI.</b>*
+*<b>Open for AI Engineer roles, consulting opportunities, Master Opportunities Worldwide, and innovative collaborations. Let's push the boundaries of what's possible with AI.</b>*
 
 <br>
 
