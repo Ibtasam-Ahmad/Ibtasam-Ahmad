@@ -1,8 +1,8 @@
-
 <div align="center">
 
 <!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibtasam+Ahmad;+AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;4%2B+Years+Building+Production+AI+Systems;From+Computational+Physics+to+AI+Innovation" alt="Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibtasam+Ahmad;AI%2FML+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;4%2B+Years+Building+Production+AI+Systems;Computational+Physics+to+AI+Innovation" alt="Typing Header" />
+</br>
 
 <!-- Subtitle Badge -->
 <img src="https://img.shields.io/badge/AI_Engineer-00D4AA?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=0D1117" alt="Role Badge" />
@@ -14,7 +14,7 @@
 <!-- Profile Views & Social Proof -->
 <img src="https://komarev.com/ghpvc/?username=Ibtasam-Ahmad&label=Profile%20Views&color=00D4AA&style=flat-square" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Ibtasam-Ahmad?label=Followers&style=flat-square&color=00D4AA&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/LinkedIn-17K%2B_Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-21K%2B_Followers-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 
 <br><br>
 
