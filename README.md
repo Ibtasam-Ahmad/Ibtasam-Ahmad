@@ -120,9 +120,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibtasam-Ahmad&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ibtasam-Ahmad&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
 
 </div>
 
